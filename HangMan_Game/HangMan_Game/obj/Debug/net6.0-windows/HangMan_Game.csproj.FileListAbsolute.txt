@@ -1,0 +1,17 @@
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\bin\Debug\net6.0-windows\HangMan_Game.exe
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\bin\Debug\net6.0-windows\HangMan_Game.deps.json
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\bin\Debug\net6.0-windows\HangMan_Game.runtimeconfig.json
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\bin\Debug\net6.0-windows\HangMan_Game.dll
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\bin\Debug\net6.0-windows\HangMan_Game.pdb
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.Form1.resources
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.csproj.GenerateResource.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.AssemblyInfoInputs.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.AssemblyInfo.cs
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.dll
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\refint\HangMan_Game.dll
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.pdb
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.genruntimeconfig.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\ref\HangMan_Game.dll
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Kodlama\C# Projects\HangMan_Game\HangMan_Game\obj\Debug\net6.0-windows\HangMan_Game.Properties.Resources.resources
